@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342241379177",
+    "firebase_url": "https://rostro-d5fa7.firebaseio.com",
+    "project_id": "rostro-d5fa7",
+    "storage_bucket": "rostro-d5fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342241379177:android:73a81f7489e98537",
+        "android_client_info": {
+          "package_name": "approstro.rostro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342241379177-dtqbng00lhds6kvvlooqpmtcqc6bf0hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxTFhILH-UbYQEf7Jq5y72ovRhTUzuNsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342241379177-dtqbng00lhds6kvvlooqpmtcqc6bf0hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
